@@ -1,0 +1,148 @@
+System_Name: 1_electromagnet
+Coil_List:
+  - Coil_0
+  - Coil_1
+Coil_0:
+  Source_List:
+    - Src_0
+    - Src_1
+    - Src_2
+    - Src_3
+    - Src_4
+  Src_0:
+    A_Coeff: ~
+    B_Coeff:
+      - 1e-4
+    Source_Direction:
+      - 1.
+      - 0.
+      - 0.
+    Source_Position:
+      - -8
+      - 0.
+      - 0.
+  Src_1:
+    A_Coeff: ~
+    B_Coeff:
+      - 1e-4
+    Source_Direction:
+      - 1.
+      - 0.
+      - 0.
+    Source_Position:
+      - -9
+      - 0.
+      - 0.
+  Src_2:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 1.
+      - 0.
+      - 0.
+    Source_Position:
+      - -10
+      - 0.
+      - 0.
+  Src_3:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 1.
+      - 0.
+      - 0.
+    Source_Position:
+      - -11
+      - 0.
+      - 0.
+  Src_4:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 1.
+      - 0.
+      - 0.
+    Source_Position:
+      - -12
+      - 0.
+      - 0.
+Coil_1:
+  Source_List:
+    - Src_0
+    - Src_1
+    - Src_2
+    - Src_3
+    - Src_4
+  Src_0:
+    A_Coeff: ~
+    B_Coeff:
+      - 1e-4
+    Source_Direction:
+      - 0.
+      - 1.
+      - 0.
+    Source_Position:
+      - 0.
+      - -8
+      - 0.
+  Src_1:
+    A_Coeff: ~
+    B_Coeff:
+      - 1e-4
+    Source_Direction:
+      - 0.
+      - 1.
+      - 0.
+    Source_Position:
+      - 0.
+      - -9
+      - 0.
+  Src_2:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 0.
+      - 1.
+      - 0.
+    Source_Position:
+      - 0.
+      - -10
+      - 0.
+  Src_3:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 0.
+      - 1.
+      - 0.
+    Source_Position:
+      - 0.
+      - -11
+      - 0.
+  Src_4:
+    A_Coeff: ~
+    B_Coeff:
+      - 1.e-4
+    Source_Direction:
+      - 0.
+      - 1.
+      - 0.
+    Source_Position:
+      - 0.
+      - -12
+      - 0.
+Workspace_Dimensions:
+  -
+    - -0.1
+    - 0.1
+  -
+    - -0.1
+    - 0.1
+  -
+    - -0.1
+    - 0.1
